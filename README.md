@@ -3,7 +3,7 @@ Developed an Airline Database Management System (DBMS) in Python, utilizing MySQ
 
 The application features a welcoming interface and supports distinct login credentials for receptionists and administrators.
 
-Receptionist Functionality:
+**Receptionist Functionality:**
 
 Create new passenger records, capturing essential personal details.
 Update existing passenger records seamlessly.
@@ -12,7 +12,8 @@ Generate ticket records for specific passengers and flights.
 Identify the cheapest flight based on departure and arrival airport IATA codes.
 Retrieve the flight history of a particular passenger.
 Cancel specific ticket records.
-Administrator Functionality:
+
+**Administrator Functionality:**
 
 Add new flight records with essential details.
 Update existing flight records efficiently.
